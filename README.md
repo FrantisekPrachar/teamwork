@@ -1,3 +1,3 @@
 # Teamwork
 
-Tento repozitář byl vytvořen v hodině OSS
+Tento repozitář byl vytvořen v hodině OSS.
